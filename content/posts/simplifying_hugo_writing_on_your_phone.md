@@ -1,5 +1,5 @@
 +++
-title = 'Simplifying_hugo_writing_on_your_phone'
+title = 'Simplifying hugo writing on your phone'
 date = 2024-11-14T17:07:36+08:00
 draft = false
 +++
