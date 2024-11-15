@@ -23,9 +23,10 @@ keywords = ["Blog", "EasyHugo", "Hugo"]
 author = "EasyHugo"
 ShowReadingTime = true
 ShowShareButtons = true
+
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
-ShowCodeCopyButtons = false
+ShowCodeCopyButtons = true
 ShowWordCount = true
 ShowRssButtonInSectionTermList = true
 UseHugoToc = true
@@ -34,8 +35,8 @@ disableScrollToTop = false
 comments = false
 hidemeta = false
 hideSummary = false
-showtoc = false
-tocopen = false
+showtoc = true
+tocopen = true
 
 
 [params.homeInfoParams]
