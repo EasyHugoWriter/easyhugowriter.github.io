@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on EasyHugo</title>
+    <link>https://easyhugowriter.github.io/posts/</link>
+    <description>Recent content in Posts on EasyHugo</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Nov 2024 23:37:15 +0800</lastBuildDate>
+    <atom:link href="https://easyhugowriter.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://easyhugowriter.github.io/posts/privacy-policy/</link>
+      <pubDate>Fri, 15 Nov 2024 23:37:15 +0800</pubDate>
+      <guid>https://easyhugowriter.github.io/posts/privacy-policy/</guid>
+      <description>&lt;p&gt;We take your privacy very seriously. This policy outlines how we collect, use, and protect your personal information.&lt;/p&gt;
+&lt;h2 id=&#34;information-we-collect&#34;&gt;Information We Collect:&lt;/h2&gt;
+&lt;p&gt;We only collect analytical and crash data. This data includes information about how you use our app, device information, and crash reports. We use this data to improve the performance and stability of our app.&lt;/p&gt;
+&lt;h2 id=&#34;how-we-use-your-information&#34;&gt;How We Use Your Information:&lt;/h2&gt;
+&lt;p&gt;We use the data we collect to analyze user behavior and improve the performance of our app. We may also use this data to troubleshoot technical issues and improve user experience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing</title>
+      <link>https://easyhugowriter.github.io/posts/introducing/</link>
+      <pubDate>Fri, 15 Nov 2024 21:42:25 +0800</pubDate>
+      <guid>https://easyhugowriter.github.io/posts/introducing/</guid>
+      <description>&lt;p&gt;真的&lt;img loading=&#34;lazy&#34; src=&#34;1.png&#34;&gt;可以吗？
+xx&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Simplifying hugo writing on your phone</title>
+      <link>https://easyhugowriter.github.io/posts/simplifying_hugo_writing_on_your_phone/</link>
+      <pubDate>Thu, 14 Nov 2024 17:07:36 +0800</pubDate>
+      <guid>https://easyhugowriter.github.io/posts/simplifying_hugo_writing_on_your_phone/</guid>
+      <description>&lt;h1 id=&#34;easyhugo&#34;&gt;EasyHugo&lt;/h1&gt;
+&lt;h2 id=&#34;simplifying-hugo-writing-on-your-phone&#34;&gt;Simplifying Hugo Writing on Your Phone!&lt;/h2&gt;
+&lt;p&gt;EasyHugo is a streamlined mobile app designed specifically for Hugo users, offering a clean and intuitive interface to help you write and manage Hugo posts anytime, anywhere. With Markdown support, you can easily capture life’s moments on the go, and even enhance your posts by inserting images effortlessly.&lt;/p&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Multi-Site Management: Seamlessly manage multiple Hugo websites in one app.&lt;/li&gt;
+&lt;li&gt;Markdown Editing: Enjoy smooth, desktop-like Markdown editing right on your phone.&lt;/li&gt;
+&lt;li&gt;Post Preview: Instantly preview your posts as you write, with a true &amp;ldquo;what you see is what you get&amp;rdquo; experience.&lt;/li&gt;
+&lt;li&gt;Image Insertion: Easily add images to bring a personal touch to your posts.&lt;/li&gt;
+&lt;li&gt;Git Syncing: Sync your content with your Git repository in one tap, giving you full control over your data and ensuring privacy.&lt;/li&gt;
+&lt;li&gt;Multi-Language Support: Available in 12 languages for a global user experience.&lt;/li&gt;
+&lt;li&gt;Dark Mode: Switch to a dark theme for a comfortable visual experience anytime.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;EasyHugo is a powerful and focused tool for managing Hugo content on mobile, combining the freedom of mobile writing with secure data control. Start using EasyHugo today and enjoy the convenience of writing and syncing Hugo posts anytime, anywhere!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Iamge_test</title>
+      <link>https://easyhugowriter.github.io/posts/image_test/</link>
+      <pubDate>Sun, 10 Nov 2024 20:15:18 +0800</pubDate>
+      <guid>https://easyhugowriter.github.io/posts/image_test/</guid>
+      <description>&lt;p&gt;测试一下&lt;strong&gt;图片&lt;/strong&gt;吧&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;图二&#34; loading=&#34;lazy&#34; src=&#34;https://easyhugowriter.github.io/posts/image_test/test.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My 1st post</title>
+      <link>https://easyhugowriter.github.io/posts/hello_world/</link>
+      <pubDate>Tue, 15 Sep 2020 19:30:03 +0800</pubDate>
+      <guid>https://easyhugowriter.github.io/posts/hello_world/</guid>
+      <description>&lt;p&gt;hello&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
